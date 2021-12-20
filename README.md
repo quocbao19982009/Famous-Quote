@@ -1,9 +1,13 @@
 # Famous-Quote
 
-This is a simple app that user can post quote and add comment to the quote
+<img src="https://github.com/quocbao19982009/Famous-Quote/blob/main/famous-quote.png" alt="famous quote" />
+
+## General Information
+This is a simple react app that user can view, post quotes and comment on the quote.
 
 Live: https://quoting-react.web.app/quotes
 
+Note: This is a pratice project.
 ## Technologies
 
 - React
