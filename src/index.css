@@ -41,17 +41,22 @@ body {
 
 .btn--flat {
   cursor: pointer;
-  font: 1.4rem;
+  font: 1.8rem;
   color: #b86262;
   border: none;
   background-color: none;
   text-decoration: none;
   padding: 0.75rem 1.5rem;
   border-radius: 4px;
+  border: 1px solid white;
 }
 
 .btn--flat:hover,
 .btn--flat:active {
   background-color: #b86262;
   color: white;
+}
+
+.m1 {
+  margin-right: 1rem;
 }
